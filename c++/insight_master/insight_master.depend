@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1527231656 source:c:\users\asjha2\documents\c++\insight_master\main.c
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	"filter_list.h"
+
+1527231643 c:\users\asjha2\documents\c++\insight_master\filter_list.h
+
